@@ -1,0 +1,35 @@
+.MYCalculator {
+    width: 500px;
+    margin:0 auto;
+    text-align: center;
+    background-color: rgb(212, 250, 237);
+    padding: 20px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+
+.MYCalculator .buttons button {
+    width: 60px;
+    height: 60px;
+    margin: 20px;
+    font-size: 20px;
+}
+
+
+.hr-line {
+	margin: 20px 0;
+	padding: 0;
+	height: 0;
+	border: none;
+	border-top: 1px solid rgb(37, 35, 35);
+}
+
+.Input-block {
+    display: inline-block;
+    padding: 15px;
+}
+
+label {
+    display: block;
+}
